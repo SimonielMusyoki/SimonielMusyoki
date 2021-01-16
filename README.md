@@ -1,4 +1,4 @@
-## [![Simoniel_Musyoki's header](https://simonielmusyoki.com/images/user-thumb/musyox.jpg)](https://simonielmusyoki.com/)
+## [![Simoniel_Musyoki's header](https://simonielmusyoki.com/images/user-thumb/musyox1.jpg)](https://simonielmusyoki.com/)
 
 <p align='center'>
 <a href="https://dev.to/simonielmusyoki"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
