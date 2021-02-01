@@ -35,7 +35,7 @@ I'm currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Noc
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/Version-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
 
 <a href="https://github.com/SimonielMusyoki/SimonielMusyoki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonielMusyoki&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
