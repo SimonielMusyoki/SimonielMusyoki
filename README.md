@@ -19,6 +19,7 @@ I'm currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Noc
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=663399)
 ![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=next.js&logoColor=white&color=00000)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=339933)
