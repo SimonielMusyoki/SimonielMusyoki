@@ -1,4 +1,4 @@
-## [![Simoniel_Musyoki's header](https://simonielmusyoki.com/images/user-thumb/musyox1.jpg)](https://simonielmusyoki.com/)
+## [![Simoniel_Musyoki's header](https://github.com/SimonielMusyoki/SimonielMusyoki/blob/main/Banner.jpg?raw=true)](https://simonielmusyoki.com/)
 
 <p align='center'>
 <a href="https://dev.to/simonielmusyoki"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
@@ -8,8 +8,8 @@
 </p>
 
 <h2 align="center">Hello there!👋🤓</h2>
-<p align="center"> My name is Simoniel Musyoki. I'm a Backend Developer, Graphic Designer, DevOps and Automation Engineer from Kenya.
-I'm currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, World Domination and Automation.</p>
+<p align="center"> My name is Simoniel Musyoki. I'm a Backend Developer, Web & App Developer, DevOps and Automation Engineer from Kenya.
+I'm currently passionate about Robotics, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Machine Learning, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, Space Technology and Automation.</p>
 
 ## 🔧 Technologies & Tools
 
