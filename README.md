@@ -2,9 +2,9 @@
 
 <p align='center'>
 <a href="https://dev.to/simonielmusyoki"><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/MusyokiMtk3"><img height="30" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/MusyokiMutuku_"><img height="30" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/simonielmusyoki"><img height="30" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/E802/production/_89649395_instagram_logo_976.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/simoniel-musyoki-06851b127/"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb9xXseGLbnfm6wr4C_t3-SQQHm4hM_E-Vuy3hDqpAXltRdlXFEujG33xK31_B0Ruec4M&usqp=CAU"></a>
+<a href="https://www.linkedin.com/in/musyoki-mutuku-06851b127/"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb9xXseGLbnfm6wr4C_t3-SQQHm4hM_E-Vuy3hDqpAXltRdlXFEujG33xK31_B0Ruec4M&usqp=CAU"></a>
 </p>
 
 <h2 align="center">Hello there!👋🤓</h2>
