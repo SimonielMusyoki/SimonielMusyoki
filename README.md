@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">Hello there!👋🤓</h2>
-<p align="center"> My name is Simoniel Musyoki. I'm a Backend Developer, Web & App Developer, DevOps and Automation Engineer from Kenya.
+<p align="center"> My name is Simoniel Musyoki. I'm a Backend Developer, Web & App Developer, aspiring DevOps and Automation Engineer from Kenya.
 I'm currently passionate about Robotics, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Machine Learning, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging, Solving world problems, Space Technology and Automation.</p>
 
 ## 🔧 Technologies & Tools
