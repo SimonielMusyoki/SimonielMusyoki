@@ -41,7 +41,7 @@ I'm currently passionate about Robotics, Progressive Web Apps, Headless CMS, Noc
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonielMusyoki&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/SimonielMusyoki/SimonielMusyoki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonielMusyoki&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonielMusyoki&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SimonielMusyoki's GitHub Stats" />
 </a>
 
 <a href="https://github.com/SimonielMusyoki/React-Native-WhatsApp-Clone">
